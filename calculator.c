@@ -4,6 +4,10 @@ int add(int a,int b){
 	   c= a+b;
 	  return c;
 	 }
+int subtract(int a,int b)
+{
+return(a-b);
+}
 void main(){
 	int a,b;
 	scanf("%d%d",&a,&b);
